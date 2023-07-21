@@ -1,4 +1,3 @@
-<body style="margin: 0px; background: #0e0e0e; height: 100%">
   <h1>Mutty Schwarz</h1>
   <h3>Follow Me On</h3>
   <div>
@@ -16,6 +15,3 @@
       <img src="https://skillicons.dev/icons?i=linux,c,cpp,java,spring,py,github,js,react,express,nodejs,mongodb,html,css&perline=14" alt="My Skills">
     </a>
   </div>
-</body>
-</html>
-</body>
