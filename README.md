@@ -5,6 +5,7 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
     </a>
   </div>
+<br>
 
   <p>Hello! I am a passionate developer with expertise in various programming languages and technologies. My focus is on creating efficient and innovative solutions. I love to learn and explore new technologies to stay ahead in the ever-changing tech world. Let's connect and build amazing things together!</p>
 
