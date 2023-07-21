@@ -12,7 +12,7 @@
   <h3>Skills and Tools</h3>
   <div class="skills-icons">
     <a href="https://skillicons.dev/icons?i=linux,c,cpp,java,spring,py,github,react,express,nodejs,mongodb,html,css,js&perline=14">
-      <img src="https://skillicons.dev/icons?i=linux,c,cpp,java,spring,py,github,react,express,nodejs,mongodb,html,css,js&perline=7" alt="My Skills">
+      <img src="https://skillicons.dev/icons?i=linux,c,cpp,java,spring,py,github,react,express,nodejs,mongodb,html,css,js&perline=14" alt="My Skills">
     </a>
   </div>
 </body>
