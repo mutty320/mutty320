@@ -1,16 +1,19 @@
-### Hi there 👋
+  <h1>Mutty Schwarz</h1>
+  <h3>Follow Me On</h3>
+  <div>
+    <a href="https://linkedin.com/in/mutty-schwarz" rel="nofollow">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
+    </a>
+  </div>
 
-<!--
-**mutty320/mutty320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>About Me</h3>
+  <p>Hello! I am a passionate developer with expertise in various programming languages and technologies. My focus is on creating efficient and innovative solutions. I love to learn and explore new technologies to stay ahead in the ever-changing tech world. Let's connect and build amazing things together!</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3>Skills and Tools</h3>
+  <div class="skills-icons">
+    <a href="https://skillicons.dev/icons?i=linux,c,cpp,java,spring,py,github,react,express,nodejs,mongodb,html,css,js&perline=7">
+      <img src="https://skillicons.dev/icons?i=linux,c,cpp,java,spring,py,github,react,express,nodejs,mongodb,html,css,js&perline=7" alt="My Skills">
+    </a>
+  </div>
+</body>
+</html>
