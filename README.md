@@ -1,3 +1,4 @@
+<body style="margin: 0px; background: #0e0e0e; height: 100%">
   <h1>Mutty Schwarz</h1>
   <h3>Follow Me On</h3>
   <div>
@@ -17,3 +18,4 @@
   </div>
 </body>
 </html>
+</body>
