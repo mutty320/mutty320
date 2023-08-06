@@ -15,8 +15,8 @@
       <img src="https://skillicons.dev/icons?i=linux,c,cpp,java,spring,py,github,js,react,express,nodejs,mongodb,html,css&perline=14" alt="My Skills">
     </a>
   </div>
-  
-  <h3>Check out my LinkdIn atricles</h3>
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  <h3>Check out my LinkdIn atricles:</h3>
 
 <ul>
   <li><a href="https://www.linkedin.com/posts/mutty-schwarz_activity-7081608762087587840-4B9D?utm_source=share&utm_medium=member_desktop">Rvalue Reference and Move Semantics</a></li>
