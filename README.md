@@ -23,6 +23,6 @@
  - [Rvalue Reference and Move Semantics](https://www.linkedin.com/posts/mutty-schwarz_activity-7081608762087587840-4B9D?utm_source=share&utm_medium=member_desktop/)
  - [The magic of auto](https://www.linkedin.com/posts/mutty-schwarz_cpp11-cplusplus-auto-activity-7061224753650384896-2u9E?utm_source=share&utm_medium=member_desktop/)
  - [Range-Based For Loop](https://www.linkedin.com/posts/mutty-schwarz_activity-7076513252012138496-Qxy3?utm_source=share&utm_medium=member_desktop/)
- - [Prevent reating objects on the heap](https://www.linkedin.com/posts/mutty-schwarz_cpp-deleteoperator-activity-6900347265597157376-k9jZ?utm_source=share&utm_medium=member_desktop/)
+ - [Prevent creating objects on the heap](https://www.linkedin.com/posts/mutty-schwarz_cpp-deleteoperator-activity-6900347265597157376-k9jZ?utm_source=share&utm_medium=member_desktop/)
  - [React Basics](https://www.linkedin.com/posts/mutty-schwarz_frontend-react-activity-7053318230131523585-qn1Z?utm_source=share&utm_medium=member_desktop/)
 
