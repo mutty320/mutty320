@@ -18,7 +18,7 @@
       -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   
-  ### Check out my LinkdIn atricles:
+  ### Check out my LinkdIn articles:
 
  - [Rvalue Reference and Move Semantics](https://www.linkedin.com/posts/mutty-schwarz_activity-7081608762087587840-4B9D?utm_source=share&utm_medium=member_desktop/)
  - [The magic of auto](https://www.linkedin.com/posts/mutty-schwarz_cpp11-cplusplus-auto-activity-7061224753650384896-2u9E?utm_source=share&utm_medium=member_desktop/)
